@@ -1,0 +1,36 @@
+.markdown-article {
+    margin-top: 15px;
+}
+
+.intro-preview {
+    margin-top: 20px;
+}
+
+.markdown-preview {
+    margin-top: 20px;
+    overflow: scroll;
+    height: 550px;
+}
+
+.save-button {
+    margin-right: 10px;
+}
+
+.intro-text {
+    margin-top: 15px;
+}
+
+.datepicker {
+    margin-top: 15px;
+}
+
+.intro-preview {
+    margin-top: 15px;
+    background-color: aliceblue;
+    height: 250px;
+    overflow: scroll;
+}
+
+.type {
+    width: 100px;
+}
