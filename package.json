@@ -11,7 +11,7 @@
     "bcryptjs": "^2.4.3",
     "es6-promisify": "^6.1.0",
     "highlight.js": "^9.18.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "katex": "^0.11.1",
     "marked": "^0.8.0",
     "marked-katex": "^0.3.8",
